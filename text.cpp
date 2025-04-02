@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cmath>
 
+//просто комментарий
+
 using namespace std;
 
 void per(int n,int m){
